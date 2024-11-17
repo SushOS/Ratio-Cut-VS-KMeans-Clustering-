@@ -139,6 +139,7 @@ for image in resized_images:
 ```
 
 ## Results
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/867af3d3-0ed2-4d5e-82a7-72e3b5abb529">
 
 ### Sample Visualization
 ```python
